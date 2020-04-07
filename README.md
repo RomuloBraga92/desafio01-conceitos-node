@@ -1,5 +1,5 @@
 <h3 align="center">
-  Desafio Rocket Seat: Conceitos do Node.js
+  Desafio Rocketseat: Conceitos do Node.js
 </h3>
 
 ## :rocket: Sobre o desafio
