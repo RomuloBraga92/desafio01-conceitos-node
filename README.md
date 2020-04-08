@@ -1,3 +1,7 @@
+<p align="center">
+<img src="/images/logo_gostack.png"/>
+</p>
+
 <h3 align="center">
   Desafio Rocketseat: Conceitos do Node.js
 </h3>
