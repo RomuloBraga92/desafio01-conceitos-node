@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-  Desafio Rocketseat: Conceitos do Node.js
+  Desafio: Conceitos do Node.js
 </h3>
 
 ## :rocket: Sobre o desafio
